@@ -203,6 +203,7 @@ To create a balanced and effective content strategy, we'll focus on five core co
 
 #### 1. Experience Showcase (30% of content)
 **Purpose:** Highlight the unique experiences available at Healthy Horizon
+
 **Content Types:**
 - Atmospheric videos of the facilities
 - Treatment demonstrations
@@ -212,6 +213,7 @@ To create a balanced and effective content strategy, we'll focus on five core co
 
 #### 2. Longevity Education (25% of content)
 **Purpose:** Position Healthy Horizon as a thought leader in longevity and health optimization
+
 **Content Types:**
 - Science explainers
 - Treatment benefit breakdowns
@@ -221,6 +223,7 @@ To create a balanced and effective content strategy, we'll focus on five core co
 
 #### 3. Community & Culture (20% of content)
 **Purpose:** Foster a sense of belonging and showcase the Healthy Horizon community
+
 **Content Types:**
 - Member spotlights
 - Event coverage
@@ -230,6 +233,7 @@ To create a balanced and effective content strategy, we'll focus on five core co
 
 #### 4. Lifestyle Integration (15% of content)
 **Purpose:** Show how Healthy Horizon fits into a holistic approach to longevity
+
 **Content Types:**
 - Complementary practices
 - Nutrition tips
@@ -239,6 +243,7 @@ To create a balanced and effective content strategy, we'll focus on five core co
 
 #### 5. Offers & Access (10% of content)
 **Purpose:** Drive conversions and provide clear pathways to becoming a member
+
 **Content Types:**
 - Membership benefit highlights
 - Teaser package promotions
